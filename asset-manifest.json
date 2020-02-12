@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/orereo/static/css/main.a2308890.chunk.css",
+    "main.js": "/orereo/static/js/main.66bd6877.chunk.js",
+    "main.js.map": "/orereo/static/js/main.66bd6877.chunk.js.map",
+    "runtime-main.js": "/orereo/static/js/runtime-main.f3998cdf.js",
+    "runtime-main.js.map": "/orereo/static/js/runtime-main.f3998cdf.js.map",
+    "static/css/2.9ddb28ea.chunk.css": "/orereo/static/css/2.9ddb28ea.chunk.css",
+    "static/js/2.13794081.chunk.js": "/orereo/static/js/2.13794081.chunk.js",
+    "static/js/2.13794081.chunk.js.map": "/orereo/static/js/2.13794081.chunk.js.map",
+    "index.html": "/orereo/index.html",
+    "precache-manifest.5d34c5fb222ab72052f4155d772e0a81.js": "/orereo/precache-manifest.5d34c5fb222ab72052f4155d772e0a81.js",
+    "service-worker.js": "/orereo/service-worker.js",
+    "static/css/2.9ddb28ea.chunk.css.map": "/orereo/static/css/2.9ddb28ea.chunk.css.map",
+    "static/css/main.a2308890.chunk.css.map": "/orereo/static/css/main.a2308890.chunk.css.map",
+    "static/js/2.13794081.chunk.js.LICENSE.txt": "/orereo/static/js/2.13794081.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/orereo/static/media/logo.5d5d9eef.svg",
+    "static/media/o.png": "/orereo/static/media/o.ed2be46e.png",
+    "static/media/re.png": "/orereo/static/media/re.7d5b0651.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f3998cdf.js",
+    "static/css/2.9ddb28ea.chunk.css",
+    "static/js/2.13794081.chunk.js",
+    "static/css/main.a2308890.chunk.css",
+    "static/js/main.66bd6877.chunk.js"
+  ]
+}
